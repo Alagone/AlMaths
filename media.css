@@ -1,0 +1,10 @@
+@media(max-width: 800px){
+	.ex{
+	border: 10px solid #0F1;
+	height: 3000px;
+	width: 100%;
+	margin: 40px auto;
+	text-align: center;
+	box-shadow: 10px 15px 10px 6px #fff;
+	}
+}
